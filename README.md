@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Prem Kumar</h1>
 <h3 align="center">Machine Learning Engineer developing Face Recognition solutions in WISE AI</h3>
 
-![](https://komarev.com/ghpvc/?username=Prem95&style=flat-square&label=Profile Views)
+![](https://komarev.com/ghpvc/?username=Prem95&style=flat-square&label=Views)
 
 - 🔭 I’m currently working on Face Anti Spoofing Liveness Detection (Deep Learning)
 
