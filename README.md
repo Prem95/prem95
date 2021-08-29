@@ -3,11 +3,13 @@
 
 ![](https://komarev.com/ghpvc/?username=Prem95&style=flat-square&label=Views)
 
-- 🔭 I’m currently working on Face Anti Spoofing Liveness Detection (Deep Learning)
+- 🔭 I’m currently working on be better every day 
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@premstroke95)
 
 - 📄 Take a look at my LinkedIn profile [LinkedIn](https://www.linkedin.com/in/premstrk/)
+
+- 👋 I’m looking to collaborate on good projects that will improve my skills 
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
