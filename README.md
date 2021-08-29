@@ -11,7 +11,7 @@
 
 - 👋 I’m looking to collaborate on good projects that will improve my skills 
 
-# Blog posts
+# Check out my articles!
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
