@@ -15,7 +15,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-
 <h3 align="left">Personal Website:</h3>
 
 <a href="https://www.premstroke.com/">Prem Kumar</a>
