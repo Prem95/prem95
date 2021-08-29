@@ -1,9 +1,13 @@
 <h1 align="center">Hey there! I'm Prem Kumar</h1>
-<h3 align="center">Machine Learning Engineer developing Face Recognition solutions in WISE AI</h3>
+
+### Check out my website :point_right: [Prem Kumar](https://www.premstroke.com/)
 
 ![](https://komarev.com/ghpvc/?username=Prem95&style=flat-square&label=Views)
 
-- 🔭 I’m currently working on be better every day 
+<h3 align="left"> What Do I Do? </h3>
+<p align="left">
+ 
+- 🤖 I’m currently a Machine Learning Engineer in WISE AI
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@premstroke95)
 
@@ -25,9 +29,6 @@
 - [What Do You Have to Know About Machine Learning in 2021?](https://medium.com/geekculture/what-do-you-have-to-know-about-machine-learning-in-2021-d00b30aa5f11?source=rss-cb3ecdf8fc0d------2)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Personal Website :rocket: </h3>
-
-<a href="https://www.premstroke.com/">Prem Kumar</a>
 
 <h3 align="left">Connect with me :rocket: </h3>
 <p align="left">
