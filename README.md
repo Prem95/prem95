@@ -11,7 +11,7 @@
 
 - 👋 I’m looking to collaborate on good projects that will improve my skills 
 
-# Check out my articles!
+<h3 align="left">Check out my articles!</h3>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
