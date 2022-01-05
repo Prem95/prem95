@@ -7,7 +7,7 @@
 <h3 align="left"> What Do I Do? </h3>
 <p align="left">
  
-- 🤖 I’m currently a Machine Learning Engineer in WISE AI
+- 🤖 I’m currently a Machine Learning Engineer in WISE AI building end to end eKYC pipeline for Face Anti Spoofing
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@premstroke95)
 
