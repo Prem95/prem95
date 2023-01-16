@@ -15,20 +15,6 @@
 
 - 👋 I’m looking to collaborate on good projects that will improve my skills 
 
-<h3 align="left">Check out my latest articles :rocket: </h3>
-
-- [Get Ready Folks, Tesla is building a real Humanoid Robot](https://medium.com/swlh/tesla-is-building-a-real-humanoid-robot-f36ec0905caa?source=rss-cb3ecdf8fc0d------2)
-
-- [5 Image Augmentation Machine Learning Techniques Using “imgAug”](https://betterprogramming.pub/5-common-image-augmentations-for-machine-learning-c6b5a03ebf38?source=rss-cb3ecdf8fc0d------2)
-
-- [Monitor Your Machine Learning Training in 2021](https://medium.com/geekculture/monitor-your-machine-learning-training-in-2021-b9bf684e1b12?source=rss-cb3ecdf8fc0d------2)
-
-- [Top 4 Important Machine Learning and Deep Learning Papers You Should Read in 2021](https://medium.com/swlh/3-novel-machine-learning-papers-to-read-in-2021-3498bf4ea480?source=rss-cb3ecdf8fc0d------2)
-
-- [What Do You Have to Know About Machine Learning in 2021?](https://medium.com/geekculture/what-do-you-have-to-know-about-machine-learning-in-2021-d00b30aa5f11?source=rss-cb3ecdf8fc0d------2)
-
-
-
 <h3 align="left">Connect with me :rocket: </h3>
 <p align="left">
  
