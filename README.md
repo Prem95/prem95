@@ -7,7 +7,7 @@
 <h3 align="left"> What Do I Do? </h3>
 <p align="left">
  
-- 🤖 I’m currently a Senior Generative AI Engineer where I build AI Agents to automate large business workflows in my organisation
+- 🤖 I’m currently a Generative AI Engineer where I build AI Agents to automate large business workflows in my organisation
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@premstroke95)
 
