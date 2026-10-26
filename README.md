@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! I'm Prem Kumar</h1>
 
-### Check out my website :point_right: [Prem Kumar](https://www.premstroke.com/)
+### Check out my website :point_right: [Prem Kumar](https://www.premkumar95.com/)
 
 ![](https://komarev.com/ghpvc/?username=Prem95&style=flat-square&label=Views)
 
